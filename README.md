@@ -1,0 +1,1 @@
+# brightness-attack-watermark
